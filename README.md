@@ -34,13 +34,13 @@ A lightweight macOS App for updating local hosts
 ## Note
 - Add DNS entries between `# My Hosts Start` and `# My Hosts End`
 ```
-# My Hosts Start
+## My Hosts Start
 
 0.0.0.0 www.example0.com
 1.1.1.1 www.example1.com
 2.2.2.2 www.example2.com
 
-# My Hosts End
+## My Hosts End
 ```
 
 ## Dependencies
